@@ -5,7 +5,7 @@ gsap.to(".slide",{
         trigger:".slide",
         markers:true,
         start:"top 0",
-        end:"+=1900",
+        end:"+=1600",
         scrub:0.3
     }
 })
